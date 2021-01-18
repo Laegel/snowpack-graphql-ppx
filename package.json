@@ -1,0 +1,18 @@
+{
+  "name": "snowpack-graphql-ppx",
+  "version": "1.0.0",
+  "description": "A tiny Snowpack plugin to fix https://github.com/reasonml-community/graphql-ppx usage of `require`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snowpack",
+    "plugin",
+    "rescript",
+    "graphql-ppx"
+  ],
+  "author": "Laegel",
+  "license": "ISC"
+}
+
